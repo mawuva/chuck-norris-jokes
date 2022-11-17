@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Mawuva\\ChuckNorrisJokes\\Tests\\JokeFactoryTest::it_return_a_predefined_joke":4},"times":{"Mawuva\\ChuckNorrisJokes\\Tests\\JokeFactoryTest::it_return_a_random_joke":0.004,"Mawuva\\ChuckNorrisJokes\\Tests\\JokeFactoryTest::it_return_a_predefined_joke":0}}
